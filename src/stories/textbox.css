@@ -1,0 +1,33 @@
+.textbox {
+  height: 84px;
+  width: 299px;
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  color: white;
+  background-color: red;
+  border-radius: 6px 0px 6px 6px;
+}
+.textbox--primary {
+  color: white;
+  background-color: #1ea7fd;
+}
+.textbox--secondary {
+  color: #333;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+}
+.textbox--small {
+  font-size: 12px;
+  height: 42px;
+  width: 150px;
+}
+.textbox--medium {
+  font-size: 14px;
+  height: 84px;
+  width: 299px;
+}
+.textbox--large {
+  font-size: 16px;
+  height: 168px;
+  width: 600px;
+}
